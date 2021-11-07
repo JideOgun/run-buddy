@@ -1,3 +1,14 @@
 # run-buddy
-Been unsuccesfully trying to push for a couple of days now.
-Was able to push something yesterday!
+
+#Purpose
+A website that offers a fitness training service
+
+##Built-with
+*HTML
+*CSS
+
+##Website
+https://JideOgun.github.io/run-buddy/
+
+## Contribution
+Made with ❤️ by Jide!
